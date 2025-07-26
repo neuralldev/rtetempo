@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Aucune tâche de build définie (projet Home Assistant)",
+      "type": "shell",
+      "command": "echo 'Aucune tâche de build à exécuter pour ce projet Home Assistant.'",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}

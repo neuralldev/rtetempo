@@ -1,5 +1,17 @@
 # RTE Tempo
 
+Ce projet est une intégration Home Assistant permettant d'afficher les informations Tempo de RTE.
+
+- Le code source se trouve dans `custom_components/rtetempo`.
+- Consultez le fichier README.md pour les instructions d'installation et d'utilisation.
+- Aucune tâche de build n'est requise, mais un fichier tasks.json est fourni pour la compatibilité avec VS Code.
+
+Pour toute génération de code, respectez la structure et les conventions du dépôt.
+
+---
+
+# Anciennes instructions
+
 Cette extension vous permet d'obtenir les infos [Tempo](https://www.services-rte.com/fr/visualisez-les-donnees-publiees-par-rte/calendrier-des-offres-de-fourniture-de-type-tempo.html) directement depuis RTE.
 
 Elle intègre dans Home Assistant plusieurs éléments:

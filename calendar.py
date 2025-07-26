@@ -13,7 +13,7 @@ from homeassistant.helpers.entity import DeviceInfo
 from homeassistant.helpers.entity_platform import AddEntitiesCallback
 
 from .old.api_worker import APIWorker, TempoDay
-from .const import (
+from const import (
     API_ATTRIBUTION,
     API_REQ_TIMEOUT,
     API_VALUE_BLUE,

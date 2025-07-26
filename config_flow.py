@@ -12,8 +12,8 @@ from homeassistant import config_entries
 from homeassistant.core import callback
 from homeassistant.data_entry_flow import FlowResult
 
-from .old.api_worker import BadRequest, ServerError, UnexpectedError, application_tester
-from .const import CONFIG_CLIEND_SECRET, CONFIG_CLIENT_ID, DOMAIN, OPTION_ADJUSTED_DAYS
+from old.api_worker import BadRequest, ServerError, UnexpectedError, application_tester
+from const import CONFIG_CLIEND_SECRET, CONFIG_CLIENT_ID, DOMAIN, OPTION_ADJUSTED_DAYS
 
 _LOGGER = logging.getLogger(__name__)
 

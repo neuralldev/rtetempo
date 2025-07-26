@@ -1,0 +1,9 @@
+{
+  "domain": "rtetempo",
+  "name": "RTE Tempo",
+  "codeowners": ["@neuralldev"],
+  "documentation": "https://github.com/neuralldev/rtetempo/README.md",
+  "version": "1.0.0",
+  "requirements": [],
+   "integration_type": "hub" 
+}

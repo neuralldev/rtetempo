@@ -1,3 +1,6 @@
+
+#project 
+custom_components/rtetempo/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

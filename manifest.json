@@ -5,5 +5,5 @@
   "documentation": "https://github.com/neuralldev/rtetempo/README.md",
   "version": "1.0.0",
   "requirements": [],
-   "integration_type": "hub" 
+  "integration_type": "hub" 
 }
